@@ -8,6 +8,7 @@
 
 //uncomment code below and add your own api keys
 
+/*
 import Foundation
 
 struct Constants {
@@ -17,4 +18,4 @@ struct Constants {
     static var VIDEOCELL_ID = "videoCell"
 
 }
-
+*/
